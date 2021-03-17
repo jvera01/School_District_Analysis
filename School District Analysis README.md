@@ -51,9 +51,10 @@
       - It did not affect the performance. They were still in the Top 5 Schools. 
    # How does replacing the ninth-grade scores affect the following:
 
-       Here are the results of how it was affected.
+       Here are the results of how it was affected. -Please right click and follow the link to see the picture of the results
      - Math and reading scores by grade
        https://github.com/jvera01/School_District_Analysis/blob/main/Resources/mathscoresbygrade.PNG
+       Reading
        https://github.com/jvera01/School_District_Analysis/blob/main/Resources/readingscoresbygrade.PNG
      - Scores by school spending		
        https://github.com/jvera01/School_District_Analysis/blob/main/Resources/scoresbyschoolspending.PNG                                    
